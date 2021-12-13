@@ -10,6 +10,8 @@ Welcome to shpd's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   stub
+
 
 
 Indices and tables
